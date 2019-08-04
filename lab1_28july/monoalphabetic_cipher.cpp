@@ -12,7 +12,7 @@ int main()
 	ofstream of;
 	//cout<<s.length();
 	int flag;
-	//checking the length of the string
+	//checking the length of the string and repitition of characters in the string
 	int f = 1;
 	while(f == 1)
 	{
